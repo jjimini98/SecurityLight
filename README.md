@@ -1,4 +1,3 @@
-# SecurityLight
-my first toy project                                       
-
-💦시험기간이라 잠시 쉬는중 (21.04.12 ~ 21.04.24)                         
+# HealthCheck
+[2021-2 창업시제품발표] 노인을 위한 건강체크 어플리케이션                                      
+                   
